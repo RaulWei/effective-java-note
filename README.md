@@ -10,5 +10,6 @@ Study notes of 《Effective Java》, making book thinner.
 - [05-枚举和注解](/effective-java/05-枚举和注解.md)
 - [06-方法](/effective-java/06-方法.md)
 - [07-通用程序设计](/effective-java/07-通用程序设计.md)
+- [08-异常](/effective-java/08-异常.md)
 
 ---
